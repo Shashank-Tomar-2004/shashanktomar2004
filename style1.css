@@ -1,0 +1,17 @@
+h1{
+            color: green;
+        }
+        li{
+            color: rebeccapurple;
+            
+        }
+        #football_li{
+            color: blue;
+        }
+        tr{
+            color: blue;
+            background-color:palevioletred;
+        }
+        body{
+            background-color: pink;
+        }

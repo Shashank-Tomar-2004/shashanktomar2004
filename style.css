@@ -3,7 +3,7 @@
 .hero-img
 {
 
-    background-image:url(01.jpg),linear-gradient(to top, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.521));
+    background-image:url(webimng.png),linear-gradient(to top, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.521));
     background-position: center ;
     background-size: cover;
 
